@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-11-19T11:05:26+00:00\n"
+"PO-Revision-Date: 2026-11-19T11:05:26+00:00\n"
+"Language: \n"
+
+msgid "plugins.generic.sdg.displayName"
+msgstr "SDG Plugin"
+
+msgid "plugins.generic.sdg.description"
+msgstr "This plugin adds support for the Sustainable Development Goals."
+
+msgid "plugins.generic.sdg.settings.description"
+msgstr "Configure the SDG classification settings."
+
+msgid "plugins.generic.sdg.SdgContribution"
+msgstr "Contribution of this article to the SDG."
+
+msgid "plugins.generic.sdg.settings.sdgClassifierModel"
+msgstr "SDG Classifier Model"
+
+msgid "plugins.generic.sdg.settings.model.aurora-sdg"
+msgstr "Aurora SDG"
+
+msgid "plugins.generic.sdg.settings.model.aurora-sdg-multi"
+msgstr "Aurora SDG Multi"
+
+msgid "plugins.generic.sdg.settings.model.elsevier-sdg-multi"
+msgstr "Elsevier SDG Multi"
+
+msgid "plugins.generic.sdg.settings.model.osdg"
+msgstr "OSDG"
+
+msgid "plugins.generic.sdg.label.sdg1"
+msgstr "SDG 1: No poverty"
+
+msgid "plugins.generic.sdg.label.sdg2"
+msgstr "SDG 2: Zero hunger"
+
+msgid "plugins.generic.sdg.label.sdg3"
+msgstr "SDG 3: Good health and well-being"
+
+msgid "plugins.generic.sdg.label.sdg4"
+msgstr "SDG 4: Quality Education"
+
+msgid "plugins.generic.sdg.label.sdg5"
+msgstr "SDG 5: Gender equality"
+
+msgid "plugins.generic.sdg.label.sdg6"
+msgstr "SDG 6: Clean water and sanitation"
+
+msgid "plugins.generic.sdg.label.sdg7"
+msgstr "SDG 7: Affordable and clean energy"
+
+msgid "plugins.generic.sdg.label.sdg8"
+msgstr "SDG 8: Decent work and economic growth"
+
+msgid "plugins.generic.sdg.label.sdg9"
+msgstr "SDG 9: Industry, innovation and infrastructure"
+
+msgid "plugins.generic.sdg.label.sdg10"
+msgstr "SDG 10: Reduced inequalities"
+
+msgid "plugins.generic.sdg.label.sdg11"
+msgstr "SDG 11: Sustainable cities and communities"
+
+msgid "plugins.generic.sdg.label.sdg12"
+msgstr "SDG 12: Responsible consumption and production"
+
+msgid "plugins.generic.sdg.label.sdg13"
+msgstr "SDG 13: Climate action"
+
+msgid "plugins.generic.sdg.label.sdg14"
+msgstr "SDG 14: Life below water"
+
+msgid "plugins.generic.sdg.label.sdg15"
+msgstr "SDG 15: Life in Land"
+
+msgid "plugins.generic.sdg.label.sdg16"
+msgstr "SDG 16: Peace, Justice and strong institutions"
+
+msgid "plugins.generic.sdg.label.sdg17"
+msgstr "SDG 17: Partnerships for the goals"

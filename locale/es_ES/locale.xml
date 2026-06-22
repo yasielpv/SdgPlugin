@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE locale SYSTEM "../../../../../lib/pkp/dtd/locale.dtd">
+
+<!--
+  * plugins/generic/sdg/locale/es_ES/locale.xml
+  *
+  * Distributed under the GNU GPL v2. For full terms see the file docs/COPYING.
+  * Localization information: https://pkp.sfu.ca/wiki/index.php?title=OJS:_Spanish_(es_ES)
+  * Localization strings.
+  -->
+
+<locale name="es_ES" full_name="Español (España)">
+	<message key="plugins.generic.sdg.displayName">Plugin ODS</message>
+	<message key="plugins.generic.sdg.description">El plugin brinda soporte para el uso de los Objetivos de Desarrollo Sostenible.</message>
+	<message key="plugins.generic.sdg.settings.description">Configure los ajustes de clasificación de ODS.</message>
+	<message key="plugins.generic.sdg.SdgContribution">Contribución de este artículo a los ODS.</message>
+	<message key="plugins.generic.sdg.settings.sdgClassifierModel">Modelo clasificador ODS</message>
+	<message key="plugins.generic.sdg.settings.model.aurora-sdg">Aurora SDG</message>
+	<message key="plugins.generic.sdg.settings.model.aurora-sdg-multi">Aurora SDG Multi</message>
+	<message key="plugins.generic.sdg.settings.model.elsevier-sdg-multi">Elsevier SDG Multi</message>
+	<message key="plugins.generic.sdg.settings.model.osdg">OSDG</message>
+	<message key="plugins.generic.sdg.label.sdg1">ODS 1: Fin de la pobreza</message>
+	<message key="plugins.generic.sdg.label.sdg2">ODS 2: Hambre cero</message>
+	<message key="plugins.generic.sdg.label.sdg3">ODS 3: Salud y bienestar</message>
+	<message key="plugins.generic.sdg.label.sdg4">ODS 4: Educación de calidad</message>
+	<message key="plugins.generic.sdg.label.sdg5">ODS 5: Igualdad de género</message>
+	<message key="plugins.generic.sdg.label.sdg6">ODS 6: Agua limpia y saneamiento</message>
+	<message key="plugins.generic.sdg.label.sdg7">ODS 7: Energía asequible y no contaminante</message>
+	<message key="plugins.generic.sdg.label.sdg8">ODS 8: Trabajo decente y crecimiento económico</message>
+	<message key="plugins.generic.sdg.label.sdg9">ODS 9: Industria, innovación e infraestructura</message>
+	<message key="plugins.generic.sdg.label.sdg10">ODS 10: Reducción de las desigualdades</message>
+	<message key="plugins.generic.sdg.label.sdg11">ODS 11: Ciudades y comunidades sostenibles</message>
+	<message key="plugins.generic.sdg.label.sdg12">ODS 12: Producción y consumo responsables</message>
+	<message key="plugins.generic.sdg.label.sdg13">ODS 13: Acción por el clima</message>
+	<message key="plugins.generic.sdg.label.sdg14">ODS 14: Vida submarina</message>
+	<message key="plugins.generic.sdg.label.sdg15">ODS 15: Vida de ecosistemas terrestres</message>
+	<message key="plugins.generic.sdg.label.sdg16">ODS 16: Paz, justicia e instituciones sólidas</message>
+	<message key="plugins.generic.sdg.label.sdg17">ODS 17: Alianzas para lograr los objetivos</message>
+</locale>

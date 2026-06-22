@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE locale SYSTEM "../../../../../lib/pkp/dtd/locale.dtd">
+
+<!--
+  * plugins/generic/sdg/locale/en_US/locale.xml
+  *
+  * Distributed under the GNU GPL v2. For full terms see the file docs/COPYING.
+  * Localization information: https://pkp.sfu.ca/wiki/index.php?title=OJS:_Spanish_(es_ES)
+  * Localization strings.
+  -->
+
+<locale name="en_US" full_name="U.S. English">
+	<message key="plugins.generic.sdg.displayName">SDG Plugin</message>
+	<message key="plugins.generic.sdg.description">This plugin adds support for the Sustainable Development Goals.</message>
+	<message key="plugins.generic.sdg.settings.description">Configure the SDG classification settings.</message>
+	<message key="plugins.generic.sdg.settings.sdgClassifierModel">SDG Classifier Model</message>
+	<message key="plugins.generic.sdg.SdgContribution">Contribution of this article to the SDG.</message>
+	<message key="plugins.generic.sdg.settings.model.aurora-sdg">Aurora SDG</message>
+	<message key="plugins.generic.sdg.settings.model.aurora-sdg-multi">Aurora SDG Multi</message>
+	<message key="plugins.generic.sdg.settings.model.elsevier-sdg-multi">Elsevier SDG Multi</message>
+	<message key="plugins.generic.sdg.settings.model.osdg">OSDG</message>
+	<message key="plugins.generic.sdg.label.sdg1">SDG 1: No poverty</message>
+	<message key="plugins.generic.sdg.label.sdg2">SDG 2: Zero hunger</message>
+	<message key="plugins.generic.sdg.label.sdg3">SDG 3: Good health and well-being</message>
+	<message key="plugins.generic.sdg.label.sdg4">SDG 4: Quality Education</message>
+	<message key="plugins.generic.sdg.label.sdg5">SDG 5: Gender equality</message>
+	<message key="plugins.generic.sdg.label.sdg6">SDG 6: Clean water and sanitation</message>
+	<message key="plugins.generic.sdg.label.sdg7">SDG 7: Affordable and clean energy</message>
+	<message key="plugins.generic.sdg.label.sdg8">SDG 8: Decent work and economic growth</message>
+	<message key="plugins.generic.sdg.label.sdg9">SDG 9: Industry, innovation and infrastructure</message>
+	<message key="plugins.generic.sdg.label.sdg10">SDG 10: Reduced inequalities</message>
+	<message key="plugins.generic.sdg.label.sdg11">SDG 11: Sustainable cities and communities</message>
+	<message key="plugins.generic.sdg.label.sdg12">SDG 12: Responsible consumption and production</message>
+	<message key="plugins.generic.sdg.label.sdg13">SDG 13: Climate action</message>
+	<message key="plugins.generic.sdg.label.sdg14">SDG 14: Life below water</message>
+	<message key="plugins.generic.sdg.label.sdg15">SDG 15: Life in Land</message>
+	<message key="plugins.generic.sdg.label.sdg16">SDG 16: Peace, Justice and strong institutions</message>
+	<message key="plugins.generic.sdg.label.sdg17">SDG 17: Partnerships for the goals</message>
+</locale>

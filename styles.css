@@ -1,0 +1,49 @@
+.sdg-wheel {
+  position: relative;
+  display: 'inline-block';
+}
+
+.sdg-wheel:hover + .sdg-legend {
+  opacity: 1;
+  background-color: white;
+  color: black;
+}
+
+.sdg-description {
+  display: none;
+  width: 200px;
+  height: 100px;
+}
+
+.sdg-legend {
+  opacity: 0;
+  transition: opacity 0.2s;
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+  right: 10px;
+  background-color: rgba(255, 255, 255, 0.95);
+  padding: 8px;
+  border-radius: 4px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  z-index: 2147483647;
+  pointer-events: none;
+}
+
+#imgCentroSDG {
+    position: relative;    /* Necesario para posicionar la imagen dentro del contenedor */  
+    /* El RECORTE exacto se hace aquí */
+    top: -48px;          /* Sube la imagen para ocultar el margen superior */
+}
+
+#un-logo-container {
+    display: inline-block; /* O 'block' dependiendo de tu diseño */
+    position: relative;    /* Obligatorio para posicionamiento absoluto interno */
+    overflow: hidden;     /* Oculta todo lo que esté fuera del contenedor */
+    transform: translate(32%, -125%);
+    width: 60%;          /* Controla el tamaño de la imagen relativo a la dona */
+    height: auto;
+    pointer-events: none; /* Crucial: hace que los clics pasen de largo y Chart.js detecte el hover */
+    border-radius: 0%;   /* Si la imagen es cuadrada, esto la hace perfectamente redonda */
+}
+
