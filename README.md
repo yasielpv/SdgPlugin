@@ -1,4 +1,4 @@
-#Plugin SDG (Objetivos de Desarrollo Sostenible) — OJS
+# Plugin SDG (Objetivos de Desarrollo Sostenible) — OJS
 
 Este plugin añade una rueda visual que muestra la predicción de afinidad de un artículo a los 17 Objetivos de Desarrollo Sostenible (SDG). Utiliza un clasificador externo para obtener probabilidades por objetivo y muestra una leyenda interactiva con iconos localizados según el idioma.
 
